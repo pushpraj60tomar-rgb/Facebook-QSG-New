@@ -57,6 +57,7 @@ This section explains how to create and share both **text-only** and **photo/vid
 
 **Description:**  
 Use this option when you want to share only text — such as an update, thought, or announcement — without attaching any media.  
+
 To create,
 
 1. On your mobile phone, open the **Facebook app**.  
@@ -75,6 +76,7 @@ Your text-only post is now visible to your selected audience. You can edit or de
 
 **Description:**  
 Choose this method to share photos or videos directly from your phone’s gallery or camera to your Facebook feed. 
+
 To create,
 
 1. On your mobile device, open the **Facebook application**.  
@@ -101,7 +103,8 @@ This section explains how to create and publish posts on the Facebook website us
 ### To Create a Text-Only Post on Web or Computer  
 
 **Description:**  
-Use this method to share a written post, announcement, or message from your desktop browser without attaching any media.  
+Use this method to share a written post, announcement, or message from your desktop browser without attaching any media. 
+
 To create,
 
 1. On your web browser, go to [https://www.facebook.com](https://www.facebook.com) and log in.  
@@ -119,7 +122,8 @@ Your text-only post is now published and visible on your timeline. You can later
 ### To Create a Photo or Video Post on Web or Computer  
 
 **Description:**  
-Select this option to upload and share pictures or videos from your computer’s file system to your Facebook timeline.  
+Select this option to upload and share pictures or videos from your computer’s file system to your Facebook timeline. 
+
 To create,
 
 1. Open your browser and visit [https://www.facebook.com](https://www.facebook.com).  
