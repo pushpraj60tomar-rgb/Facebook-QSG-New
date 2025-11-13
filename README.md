@@ -55,6 +55,10 @@ This section explains how to create and share both **text-only** and **photo/vid
 
 ### To Create a Text-Only Post on Mobile  
 
+**Description:**  
+Use this option when you want to share only text — such as an update, thought, or announcement — without attaching any media.  
+To create,
+
 1. On your mobile phone, open the **Facebook app**.  
 2. On the home screen, tap **What’s on your mind?**  
 3. In the text box, type your message or update.  
@@ -68,6 +72,10 @@ Your text-only post is now visible to your selected audience. You can edit or de
 ---
 
 ### To Create a Photo or Video Post on Mobile  
+
+**Description:**  
+Choose this method to share photos or videos directly from your phone’s gallery or camera to your Facebook feed. 
+To create,
 
 1. On your mobile device, open the **Facebook application**.  
 2. On your **News Feed** or **Profile Page**, tap **What’s on your mind?**  
@@ -92,6 +100,10 @@ This section explains how to create and publish posts on the Facebook website us
 
 ### To Create a Text-Only Post on Web or Computer  
 
+**Description:**  
+Use this method to share a written post, announcement, or message from your desktop browser without attaching any media.  
+To create,
+
 1. On your web browser, go to [https://www.facebook.com](https://www.facebook.com) and log in.  
 2. On your **News Feed** or **Profile Page**, click **What’s on your mind?**  
 3. Type your message or status update in the text box.  
@@ -105,6 +117,10 @@ Your text-only post is now published and visible on your timeline. You can later
 ---
 
 ### To Create a Photo or Video Post on Web or Computer  
+
+**Description:**  
+Select this option to upload and share pictures or videos from your computer’s file system to your Facebook timeline.  
+To create,
 
 1. Open your browser and visit [https://www.facebook.com](https://www.facebook.com).  
 2. Click inside the **What’s on your mind?** text box on your News Feed or profile.  
