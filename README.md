@@ -33,6 +33,9 @@ Facebook allows users to share updates, photos, and videos with friends and foll
 This guide provides simple and clear instructions for creating posts using both the **Facebook mobile app** and **desktop website**.  
 You will also find troubleshooting tips to help you post smoothly.
 
+![Facebook Flowchart](https://raw.githubusercontent.com/username/repo/main/images/facebook.drawio.png)
+
+
 ---
 
 ## Before You Get Started  
